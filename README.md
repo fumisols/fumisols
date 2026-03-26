@@ -47,6 +47,7 @@ Ekiti State University, Nigeria
 **Certification**
 
 👨‍💻 3MTT Data Analytics
+
 👨‍💻 Africa Agility Foundation Artificial Intelligence and Machine Learning
 
 **AWARDS & RECOGNITION**
