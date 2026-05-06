@@ -12,7 +12,15 @@ A Financial Investment Prediction Model
 
 Sales Analaysis Tracker
 
-**Machine Learning**
+**AI/Machine Learning**
+
+A Sales Copilot- an AI Agent that helps sales reps of businesses prepare for calls better by creating a pre-call report based on the prospect research and prospect's company research.
+
+An automated Lead Qulification Agent - to automatically research and qualify leads and send email notifications to the correct sales rep
+
+A website and phone based Lead Generation Custom Support Agent - to interact with customers through the website and on the phone
+
+A Lead Generation Agent - to interact with customers on Whatsapp
 
 A Financial Investment Prediction Model
 
@@ -20,17 +28,19 @@ A Financial Investment Prediction Model
 
 **TECHNICAL SKILLS**: 
 
-Data Analysis and Visualization | Database Management System (SQL) | Machine Learning Libraries | Statistical Analysis | Microsoft Office Suite | Collaboration and Version Control | Python Programming
+Data Analysis and Visualization | Database Management System (SQL) | Machine Learning Libraries | Statistical Analysis | Microsoft Office Suite | Collaboration and Version Control | Python Programming| 
 
 **TOOLS**: 
 
-Microsoft Excel | Power BI | Tableau | Scikit-learn | Tensorflow | SQL | GitHub | Python | SQL | R | Linux | Microsoft Word | Microsoft PowerPoint | Google Workpsace 
+Microsoft Excel | Power BI | Tableau | Scikit-learn | Tensorflow | SQL | GitHub | Python | SQL | R | Linux | Microsoft Word | Microsoft PowerPoint | Google Workpsace| n8n| Claude Code| OpenAI API| Docker| Relevance AI 
 
 **SOFT SKILLS**: 
 
 Analytical Thinking | Problem-Solving | Effective Communication | Collaboration | Adaptability | Attention to Detail | Creativity | Critical Thinking | Time Management | Decision-Making
 
 **EXPERIENCE**
+
+AI Engineer | Funmisols Consulting Limited, West Africa. 2025 - Present
 
 Data Analytics Consultant | Funmisols Consulting Limited, West Africa. 2022 - 2026
 
