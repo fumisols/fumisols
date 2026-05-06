@@ -72,4 +72,4 @@ Departmental excellence award: Redbiller Technologies Limited, Canada
 
 LinkedIn: Funmi Gbokoyi
 
-Email: funmilayogbokoyi@gmail.com
+Email: funmigbokoyi7@gmail.com
