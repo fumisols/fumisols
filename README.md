@@ -10,11 +10,11 @@ I have a proven track record of collaborating with clients to solve business pro
 
 **DATA ANALYTICS**
 
-Cohort, Retention and Churn Analysis
+Cohort Retention and Churn Analysis
 
 A Financial Investment Prediction Model
 
-Sales Analaysis Tracker
+Sales Analysis Tracker
 
 **AI/Machine Learning**
 
@@ -25,8 +25,6 @@ An automated Lead Qulification Agent - to automatically research and qualify lea
 A website and phone based Lead Generation Custom Support Agent - to interact with customers through the website and on the phone
 
 A Lead Generation Agent - to interact with customers on Whatsapp
-
-A Financial Investment Prediction Model
 
 **AREA OF EXPERTISE**
 
