@@ -10,7 +10,7 @@ I have a proven track record of collaborating with clients to solve business pro
 
 **DATA ANALYTICS**
 
-Cohort Retention and Churn Analysis
+Revenue and Operational Analysis
 
 A Financial Investment Prediction Model
 
