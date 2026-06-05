@@ -40,13 +40,11 @@ Analytical Thinking | Problem-Solving | Effective Communication | Collaboration 
 
 **EXPERIENCE**
 
-AI Engineer | Funmisols Consulting Limited, West Africa. 2025 - Present
+Data Analyst | Funmisols Consulting Limited, West Africa. 2022 - 2026
 
-Data Analytics Consultant | Funmisols Consulting Limited, West Africa. 2022 - 2026
+Financial Analyst/Head of Finance | Redbiller Technologies Limited, Canada. 2022-2026
 
-Financial Analyst | Redbiller Technologies Limited, Canada. 2022-2026
-
-Data Analyst | Dataflood Analytics, Nigeria. 2020-2024
+Data Analyst/Project Researcher | Dataflood Analytics, Nigeria. 2020-2024
 
 **EDUCATION**
 
