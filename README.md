@@ -24,8 +24,6 @@ An automated Lead Qulification Agent - to automatically research and qualify lea
 
 A website and phone based Lead Generation Custom Support Agent - to interact with customers through the website and on the phone
 
-A Lead Generation Agent - to interact with customers on Whatsapp
-
 **AREA OF EXPERTISE**
 
 **TECHNICAL SKILLS**: 
